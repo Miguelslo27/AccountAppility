@@ -1,0 +1,7 @@
+{
+  "name": "AccountAppillity",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
